@@ -14,3 +14,5 @@ github readme;
 - 📫 How to reach me **yukselcanozdemir@gmail.com**
 - ⚡ Fun fact **I like camping, swimming,cycling**
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yuksel-can&label=Profile%20views&color=0e75b6&style=flat" alt="yuksel-can" /> </p>
+
