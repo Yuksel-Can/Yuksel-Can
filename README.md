@@ -7,7 +7,7 @@
 <h3 align="center">I'm a self-proclaimed backend developer</h3>
 
 - 🔭 I’m currently working on '__HRMS__'
-- 🌱 I’m currently learning '**Spring and React**'
+- 🌱 I’m currently learning '**Spring, .Net Core and React**'
 - 💬 Ask me about '**Java and Javascript**'
 - 📫 How to reach me '**yukselcanozdemir@gmail.com**'
 - ⚡ Fun fact '**I like camping, swimming, cycling**'
